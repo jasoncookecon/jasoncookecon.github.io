@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 header:
-  image: /assets/images/mtn2_crop.jpg
+  image: /assets/images/mtn4_crop.jpg
 ---
 
 ## Working papers
