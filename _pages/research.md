@@ -7,7 +7,7 @@ header:
 
 ## Working papers
 
-- Jason Cook. [Race-Blind Admissions, School Segregation, and Student Outcomes: Evidence from Race-Blind Magnet School](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818304){:target="_blank"}. **<i>Under Review</i>**. ([Online Appendix](https://drive.google.com/file/d/1w3GBpFcCJ2A_BAb9VxE-zIAF4YT3y1ip/view?usp=sharing){:target="_blank"}). Updated.
+- Jason Cook. [Race-Blind Admissions, School Segregation, and Student Outcomes: Evidence from Race-Blind Magnet Schools](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818304){:target="_blank"}. **<i>Under Review</i>**. ([Online Appendix](https://drive.google.com/file/d/1w3GBpFcCJ2A_BAb9VxE-zIAF4YT3y1ip/view?usp=sharing){:target="_blank"}). Updated.
 	- <i>Previous versions</i>: [IZA DP](https://www.iza.org/publications/dp/11909/race-blind-admissions-school-segregation-and-student-outcomes-evidence-from-race-blind-magnet-school-lotteries){:target="_blank"}, [CESifo WP](https://www.cesifo.org/en/publikationen/2018/working-paper/race-blind-admissions-school-segregation-and-student-outcomes){:target="_blank"}
 	- Media: [Chalkbeat](https://www.chalkbeat.org/posts/us/2018/07/25/the-feds-are-discouraging-districts-from-using-race-to-integrate-schools-a-new-study-points-to-a-potential-downside/){:target="_blank"}
 
@@ -19,8 +19,8 @@ header:
 
 ## Selected works in progress
 
-*How Place and Poverty Intersect: Evidence about Geographic Barriers and Low Nutrition Assistance Take-up* -- with Marianne Bitler and Sonya R. Porter.
-- **Funding:** [Institute for Poverty Research](https://www.irp.wisc.edu/)
+- *How Place and Poverty Intersect: Evidence about Geographic Barriers and Low Nutrition Assistance Take-up* -- with Marianne Bitler and Sonya R. Porter.
+	- **Funding:** [Institute for Poverty Research](https://www.irp.wisc.edu/)
 
 - *Nutrition Assistance Eligibility and Labor Supply* -- with Marianne Bitler and Jonathan Rothbaum.
 
