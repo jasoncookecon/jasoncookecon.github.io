@@ -20,7 +20,7 @@ header:
 ## Selected works in progress
 
 - *How Place and Poverty Intersect: Evidence about Geographic Barriers and Low Nutrition Assistance Take-up* -- with Marianne Bitler and Sonya R. Porter.
-	- **Funding:** [Institute for Poverty Research](https://www.irp.wisc.edu/)
+	- Funding: [Institute for Poverty Research](https://www.irp.wisc.edu/)
 
 - *Nutrition Assistance Eligibility and Labor Supply* -- with Marianne Bitler and Jonathan Rothbaum.
 
@@ -29,13 +29,13 @@ header:
 
 - Marianne Bitler, Jason Cook, Jonathan Rothbaum (2021). [Working for Your Bread: The Labor Supply Effects of SNAP](https://www.aeaweb.org/articles?id=10.1257/pandp.20211094){:target="_blank"}. **<i>American Economic Review, Papers & Proceedings</i>**. ([ungated version](https://github.com/jasoncookecon/econ4651/blob/master/AEAPP_2021_BCR/Working_for_your_Bread.pdf){:target="_blank"})
 	- [Slides](https://rawcdn.githack.com/jasoncookecon/econ4651/666652dd25306c2c4cdeb9e7a5f7ee3759699900/AEAPP_2021_BCR/AEAPP_Bitler_Cook_Rothbaum.html){:target="_blank"}
-	- **Funding**: [W.E. Upjohn Institute](https://research.upjohn.org/grants/){:target="_blank"}; [Tufts/UConn RIDGE](https://ridge.nutrition.tufts.edu/research-grants/2019){:target="_blank"}
+	- Funding: [W.E. Upjohn Institute](https://research.upjohn.org/grants/){:target="_blank"}; [Tufts/UConn RIDGE](https://ridge.nutrition.tufts.edu/research-grants/2019){:target="_blank"}
 
 - Francine D. Blau, Lawrence M. Kahn, Peter Brummund, Jason Cook, Miriam Larson-Koester (2020). [Is There Still Son Preference in the United States?](https://link.springer.com/article/10.1007/s00148-019-00760-7){:target="_blank"} **<i>The Journal of Population Economics</i>**.
-	- **Media**: [NY Times](https://www.nytimes.com/2018/03/05/upshot/americans-might-no-longer-prefer-sons-over-daughters.html){:target="_blank"}, [The Atlantic](https://www.theatlantic.com/family/archive/2018/11/parent-disappointed-child-gender-sex-preference/576907/){:target="_blank"}, [VOX](https://voxeu.org/article/declining-son-preference-us?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=){:target="_blank"}
+	- Media: [NY Times](https://www.nytimes.com/2018/03/05/upshot/americans-might-no-longer-prefer-sons-over-daughters.html){:target="_blank"}, [The Atlantic](https://www.theatlantic.com/family/archive/2018/11/parent-disappointed-child-gender-sex-preference/576907/){:target="_blank"}, [VOX](https://voxeu.org/article/declining-son-preference-us?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=){:target="_blank"}
 
 - Jason Cook, Vladimir Kogan, Stéphane Lavertu, and Zachary Peskowitz (2020). [Government Privatization and Democracy: The Case of Charter Schools In Ohio](https://www.journals.uchicago.edu/doi/10.1086/705818){:target="_blank"}. **<i>Journal of Politics</i>**.
-	- **Media**: [Education Week](http://blogs.edweek.org/edweek/District_Dossier/2019/06/charter_enrollment_school_board_elections.html?cmp=eml-enl-eu-news3&M=58851711&U=1601695&UUID=45c005197da02c5992c9935b4883212f){:target="_blank"}, [Center on Reinventing Public Education](https://www.crpe.org/thelens/how-charter-schools-help-cultivate-good-citizenship){:target="_blank"}
+	- Media: [Education Week](http://blogs.edweek.org/edweek/District_Dossier/2019/06/charter_enrollment_school_board_elections.html?cmp=eml-enl-eu-news3&M=58851711&U=1601695&UUID=45c005197da02c5992c9935b4883212f){:target="_blank"}, [Center on Reinventing Public Education](https://www.crpe.org/thelens/how-charter-schools-help-cultivate-good-citizenship){:target="_blank"}
 
 - Jason Cook (2018). [The Effect of Charter Competition on Unionized District Revenues and Resource Allocation](http://authors.elsevier.com/sd/article/S0047272717302050){:target="_blank"}. **<i>Journal of Public Economics</i>**.
 
