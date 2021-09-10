@@ -5,11 +5,14 @@ header:
   image: /assets/images/moro-crop2.jpg
 ---
 
-**Fields:** Environmental and natural resource economics. Applied econometrics and data science. Uncertainty and Bayesian learning.
-
-**Interests:** Energy markets and climate change. Water management. Fisheries policy. The impact of environmental quality on market outcomes.
-
 ## Working papers
+
+Jason Cook. [Race-Blind Admissions, School Segregation, and Student Outcomes: Evidence from Race-Blind Magnet School](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818304){:target="_blank"} **<i>Under Review</i>**. ([Online Appendix](https://drive.google.com/file/d/1w3GBpFcCJ2A_BAb9VxE-zIAF4YT3y1ip/view?usp=sharing){:target="_blank"}). Updated.
+<i>Previous versions</i>: [IZA DP](https://www.iza.org/publications/dp/11909/race-blind-admissions-school-segregation-and-student-outcomes-evidence-from-race-blind-magnet-school-lotteries){:target="_blank"}, [CESifo WP](https://www.cesifo.org/en/publikationen/2018/working-paper/race-blind-admissions-school-segregation-and-student-outcomes){:target="_blank"}
+Media: [Chalkbeat](https://www.chalkbeat.org/posts/us/2018/07/25/the-feds-are-discouraging-districts-from-using-race-to-integrate-schools-a-new-study-points-to-a-potential-downside/){:target="_blank"}
+Jason Cook, Stéphane Lavertu, Corbin Miller. Rent-Seeking through Collective Bargaining: Teachers Unions and Education Production. Revise & Resubmit - Economics of Education Review.
+Media: The74
+Slides
 
 "Hydro power. Market might."
 
@@ -26,6 +29,11 @@ header:
 
 ## Selected works in progress
 
+Works in Progress:
+How Place and Poverty Intersect: Evidence about Lack of Retail and Low Nutrition Assistance Take-up -- with Marianne Bitler and Sonya R. Porter.
+Funding: Institute for Poverty Research
+Nutrition Assistance Eligibility and Labor Supply -- with Marianne Bitler and Jonathan Rothbaum.
+
 "The value of mass information: Search in the Google era." With Christopher J. Costello and Michael B. Ward.
 
 <!--
@@ -34,6 +42,17 @@ header:
 
 
 ## Publications
+
+Marianne Bitler, Jason Cook, Jonathan Rothbaum (2021). Working for Your Bread: The Labor Supply Effects of SNAP. American Economic Review, Papers & Proceedings. (ungated version)
+Slides
+Funding: W.E. Upjohn Institute; Tufts/UConn RIDGE
+Francine D. Blau, Lawrence M. Kahn, Peter Brummund, Jason Cook, Miriam Larson-Koester (2020). Is There Still Son Preference in the United States? The Journal of Population Economics.
+Media: NY Times, The Atlantic, VOX
+Jason Cook, Vladimir Kogan, Stéphane Lavertu, and Zachary Peskowitz (2020). Government Privatization and Democracy: The Case of Charter Schools In Ohio. Journal of Politics.
+Media: Education Week, Center on Reinventing Public Education
+Jason Cook (2018). The Effect of Charter Competition on Unionized District Revenues and Resource Allocation. Journal of Public Economics.
+Jason Cook and Richard Mansfield (2016). Task-Specific Experience and Task-Specific Talent: Decomposing the Productivity of High School Teachers. Journal of Public Economics. 
+Jason Cook and James McDonald (2013). Partially Adaptive Estimation of Interval Censored Regression Models. Computational Economics. 
 
 "Sceptic priors and climate consensus." Published in **<i>Climatic Change</i>**, 2021 (166:7). [Paper](https://rdcu.be/cle8u){:target="_blank"}. [Pre-print](https://grantmcdermott.com/papers/sceptic.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/skeptic-priors){:target="_blank"}.
 
