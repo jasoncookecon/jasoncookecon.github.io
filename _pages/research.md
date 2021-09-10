@@ -19,48 +19,36 @@ Jason Cook, Stéphane Lavertu, Corbin Miller. [Rent-Seeking through Collective B
 
 ## Selected works in progress
 
-Works in Progress:
-How Place and Poverty Intersect: Evidence about Lack of Retail and Low Nutrition Assistance Take-up -- with Marianne Bitler and Sonya R. Porter.
-Funding: Institute for Poverty Research
-Nutrition Assistance Eligibility and Labor Supply -- with Marianne Bitler and Jonathan Rothbaum.
-
-"The value of mass information: Search in the Google era." With Christopher J. Costello and Michael B. Ward.
+*How Place and Poverty Intersect: Evidence about Geographic Barriers and Low Nutrition Assistance Take-up* -- with Marianne Bitler and Sonya R. Porter.
+- **Funding:** [Institute for Poverty Research](https://www.irp.wisc.edu/)
 
 <!--
-*A broad class of economic decision problems involves searching over a collection of uncertain research leads. Existing search theory informs the efficient search over this pool using available information. But in many cases, the researcher has the opportunity to collect new information en masse, e.g. with a search engine or scientific framework, that will benefit the search. We derive the value of this type of bulk information, determine the general properties that render it large or small, and calculate its implications for economic innovation. We show that changes to the underlying characteristics of different search problems can yield surprising results. For example, more lucrative end-prizes can actually reduce the value of information, while the possibility of better information often suppresses innovation.*
+*The Supplemental Nutrition Assistance Program (SNAP) and Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) are central to the US safety net. SNAP is the only universal program that is part of the safety net and WIC touches over half of infants and a large share of children. Surprisingly, a sizable portion of the eligible population does not claim benefits. From 2010 to 2013, SNAP participation rates among those eligible ranged between 72% to 86% with take-up rates among the elderly as low as 33%. WIC take-up falls dramatically among eligible families after the child turns one and experiences subsequent declines for children ages 2-5. Despite the size and importance of SNAP and WIC, we have an incomplete understanding of the determinants of participation, particularly among rural, impoverished populations. Specifically, we understand very little about the causal role that geographic barriers play in determining program participation across rural America.
+
+This paper provides a comprehensive assessment of whether travel distances from place of residence to SNAP-authorized retail stores and SNAP and WIC program offices impacts program participation. Data limitations have prevented researchers from fully exploring the impact of travel distance on nutrition program participation. Existing research uses coarse proxies for travel distance and surveys with documented underreported program participation or, relies on a short cross-section as in the case of FoodAPS, which combines high-frequency national surveys with administrative data on SNAP participation. We overcome these challenges using novel administrative SNAP and WIC data for every applicant and recipient across 23 states over two decades, allowing us to explore these topics at an unprecedented level of breadth, depth, and accuracy. These data include administrative records on program participation and geocoded residence, which permit us to precisely measure the household-specific travel distance to the closest program office/clinic or grocer as well as program participation each month. We also know monthly WIC redemptions, allowing us to measure WIC redemptions which have rarely been systematically studied. We merge these records with the location of every SNAP-authorized food retailer in the country and every SNAP office and WIC clinic as well as with administrative TANF and HUD program records, which allow us to determine cross-program participation.
+
+We leverage variation in the timing of openings/closings among grocers, SNAP offices, and WIC clinics in a panel design that allows for heterogeneous treatment effects across groups and time. Preliminary findings show that decreases in travel distance to SNAP offices meaningfully increases SNAP participation among elderly households. Similarly, decreases in travel distances to WIC clinics increases WIC participation, particularly among households with older children. We find little systematic evidence that travel distance to SNAP-authorized grocers impacts program participation. Taken together, we conclude that geographic barriers play a meaningful role in accessing the safety net across rural America
+*
 -->
+
+*Nutrition Assistance Eligibility and Labor Supply* -- with Marianne Bitler and Jonathan Rothbaum.
 
 
 ## Publications
 
-Marianne Bitler, Jason Cook, Jonathan Rothbaum (2021). Working for Your Bread: The Labor Supply Effects of SNAP. American Economic Review, Papers & Proceedings. (ungated version)
-Slides
-Funding: W.E. Upjohn Institute; Tufts/UConn RIDGE
-Francine D. Blau, Lawrence M. Kahn, Peter Brummund, Jason Cook, Miriam Larson-Koester (2020). Is There Still Son Preference in the United States? The Journal of Population Economics.
-Media: NY Times, The Atlantic, VOX
-Jason Cook, Vladimir Kogan, Stéphane Lavertu, and Zachary Peskowitz (2020). Government Privatization and Democracy: The Case of Charter Schools In Ohio. Journal of Politics.
-Media: Education Week, Center on Reinventing Public Education
-Jason Cook (2018). The Effect of Charter Competition on Unionized District Revenues and Resource Allocation. Journal of Public Economics.
-Jason Cook and Richard Mansfield (2016). Task-Specific Experience and Task-Specific Talent: Decomposing the Productivity of High School Teachers. Journal of Public Economics. 
-Jason Cook and James McDonald (2013). Partially Adaptive Estimation of Interval Censored Regression Models. Computational Economics. 
+Marianne Bitler, Jason Cook, Jonathan Rothbaum (2021). [Working for Your Bread: The Labor Supply Effects of SNAP](https://www.aeaweb.org/articles?id=10.1257/pandp.20211094){:target="_blank"}. **<i>American Economic Review, Papers & Proceedings</i>**. ([ungated version](https://github.com/jasoncookecon/econ4651/blob/master/AEAPP_2021_BCR/Working_for_your_Bread.pdf){:target="_blank"})
+- [Slides](https://rawcdn.githack.com/jasoncookecon/econ4651/666652dd25306c2c4cdeb9e7a5f7ee3759699900/AEAPP_2021_BCR/AEAPP_Bitler_Cook_Rothbaum.html){:target="_blank"}
+- **Funding**: [W.E. Upjohn Institute](https://research.upjohn.org/grants/){:target="_blank"}; [Tufts/UConn RIDGE](https://ridge.nutrition.tufts.edu/research-grants/2019){:target="_blank"}
 
-"Sceptic priors and climate consensus." Published in **<i>Climatic Change</i>**, 2021 (166:7). [Paper](https://rdcu.be/cle8u){:target="_blank"}. [Pre-print](https://grantmcdermott.com/papers/sceptic.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/skeptic-priors){:target="_blank"}.
+Francine D. Blau, Lawrence M. Kahn, Peter Brummund, Jason Cook, Miriam Larson-Koester (2020). [Is There Still Son Preference in the United States?](https://link.springer.com/article/10.1007/s00148-019-00760-7){:target="_blank"} **<i>The Journal of Population Economics</i>**.
+- **Media**: [NY Times](https://www.nytimes.com/2018/03/05/upshot/americans-might-no-longer-prefer-sons-over-daughters.html){:target="_blank"}, [The Atlantic](https://www.theatlantic.com/family/archive/2018/11/parent-disappointed-child-gender-sex-preference/576907/){:target="_blank"}, [VOX](https://voxeu.org/article/declining-son-preference-us?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=){:target="_blank"}
 
-"Alternate explanations for the blue paradox do not withstand statistical scrutiny." With Kyle C. Meng, Gavin G. McDonald and Christopher J. Costello. Published in **<i>Proceedings of the National Academy of Sciences</i>**, 115 (52), E12124–E12125, 2018. ([Paper](https://doi.org/10.1073/pnas.1818687115){:target="_blank"}. [Ungated](http://grantmcdermott.com/papers/mcdermott2019blueparadox-reply.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/blueparadox){:target="_blank"}.)
+Jason Cook, Vladimir Kogan, Stéphane Lavertu, and Zachary Peskowitz (2020). [Government Privatization and Democracy: The Case of Charter Schools In Ohio](https://www.journals.uchicago.edu/doi/10.1086/705818){:target="_blank"}. **<i>Journal of Politics</i>**.
+- **Media**: [Education Week](http://blogs.edweek.org/edweek/District_Dossier/2019/06/charter_enrollment_school_board_elections.html?cmp=eml-enl-eu-news3&M=58851711&U=1601695&UUID=45c005197da02c5992c9935b4883212f){:target="_blank"}, [Center on Reinventing Public Education](https://www.crpe.org/thelens/how-charter-schools-help-cultivate-good-citizenship){:target="_blank"}
 
-"The Blue Paradox: Preemptive Overfishing in Marine Reserves." With Kyle C. Meng, Gavin G. McDonald and Christopher J. Costello. Published in **<i>Proceedings of the National Academy of Sciences</i>**, 116 (12), 5319–5325, 2019. ([Paper](http://dx.doi.org/10.1073/pnas.1802862115){:target="_blank"}. [Ungated]({{ site.url }}/papers/mcdermott2019blueparadox.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/blueparadox){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2018/08/29/blue-paradox-pnas/){:target="_blank"}.)
+Jason Cook (2018). [The Effect of Charter Competition on Unionized District Revenues and Resource Allocation](http://authors.elsevier.com/sd/article/S0047272717302050){:target="_blank"}. **<i>Journal of Public Economics</i>**.
 
-"Protecting marine mammals, turtles and birds by rebuilding global fisheries." With Matthew G. Burgess and others. Published in **<i>Science</i>**, 359 (6381) 1255–31258, 2018. ([Paper](http://dx.doi.org/10.1126/science.aao4248){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2018bycatch.pdf){:target="_blank"}.  [Code](https://github.com/grantmcdermott/bycatch){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2018/03/16/science-bycatch/){:target="_blank"}.)
+Jason Cook and Richard Mansfield (2016). [Task-Specific Experience and Task-Specific Talent: Decomposing the Productivity of High School Teachers](http://www.sciencedirect.com/science/article/pii/S0047272716300299){:target="_blank"}. **<i>Journal of Public Economics</i>**. 
 
-"Five rules for pragmatic blue growth." With Matthew G. Burgess and others. Published in **<i>Marine Policy</i>**, 87 (2018) 331–339, 2018. ([Paper](http://dx.doi.org/10.1016/j.marpol.2016.12.005){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2018bluegrowth.pdf){:target="_blank"}.)
+Jason Cook and James McDonald (2013). [Partially Adaptive Estimation of Interval Censored Regression Models](https://link.springer.com/article/10.1007/s10614-012-9324-0){:target="_blank"}. **<i>Computational Economics</i>**. 
 
-"Resolving disputes over ocean calamities." With Matthew G. Burgess. Published in **<i>BioScience</i>**, 65(12), 1115-1116, 2015. ([Paper](http://dx.doi.org/10.1093/biosci/biv147){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2015resolving.pdf){:target="_blank"}.)
-
-"Electricity prices, river temperatures and cooling water scarcity." With Øivind A. Nilsen. Published in **<i>Land Economics</i>**, 90(1), 131-148, 2014. ([Paper](http://dx.doi.org/10.3368/le.90.1.131){:target="_blank"}. [Ungated]({{ site.url }}/papers/mcdermott2014electricity.pdf){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2013/01/14/electricity-prices-river-temperatures-water-scarcity/){:target="_blank"}.)
-
-
-## Report chapters
-
-"South Africa Compliance Analysis." With James Morrissey and Davina Mendelsohn, in “Governing Global Climate Change: St Petersburg Compliance Report for the ‘G8 Plus Five’ Countries”, Maria Banda and Joanna Langille (eds.), G8 Final Compliance Report 2007, Oxford: G8 Research Group Oxford, 1 June 2007. xiii + 190 pp. ([Report](http://www.g8.utoronto.ca/oxford/2006compliance-ox.pdf){:target="_blank"}.)
-
-"The Current Status of the EPWP (Infrastructure) in the Western Cape." With Anna McCord, Kim Adonis and Lisa van Dongen. Prepared for the Western Cape Provincial Treasury & Department of Transport And Public Works CAPE. Public Works Research Project, SALDRU, UCT, 24 March 2006. ([Report](http://www.saldru.uct.ac.za/documentation/reports-and-studies-1/147-the-current-status-of-the-epwp-infrastructure-in-the-western-cape-1){:target="_blank"}.)
