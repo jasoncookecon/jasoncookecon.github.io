@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Grant R. McDermott
-url: https://grantmcdermott.com
+title: Jason B. Cook
+url: https://jasoncookecon.github.io
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
 
 # repository: grantmcdermott/grantmcdermott.github.io
 github: [metadata]
-email: grantmcd@uoregon.edu
+email: jason.cook@eccles.utah.edu
 description: >- # this means to ignore newlines in the text below
-  Grant McDermott's personal website.
-twitter_username: grant_mcdermott
-github_username: grantmcdermott
+  Jason Cook's personal website.
+twitter_username: Jason__Cook
+github_username: jasoncookecon
 minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
@@ -63,39 +63,39 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Grant McDermott"
-  avatar : "/assets/images/mcdermott400sq-s.jpg"
+  name   : "Jason Cook"
+  avatar : "/assets/images/cook.png"
   bio    : 
-    Assistant Prof. at the University of Oregon. 
-    Interested in environmental economics & data science.
+    Assistant Prof. at the University of Utah. 
+    Interested in public economics and applied econometrics.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://grantmcdermott.com"
+      url: "https://jasoncookecon.github.io"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:grantmcd@uoregon.edu"
+      url: "mailto:jason.cook@eccles.utah.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "https://twitter.com/Jason__Cook"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
+      url: "https://github.com/jasoncookecon"
     - label: "Scholar"
       icon: "ai ai-google-scholar"
-      url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
+      url: "https://scholar.google.com/citations?user=97coiPkAAAAJ&hl=en"
     - label: "ORCID"
       icon: "ai ai-orcid"
-      url: "http://orcid.org/0000-0001-7883-8573"
+      url: "http://orcid.org/0000-0002-3807-9688"
       
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "https://twitter.com/Jason__Cook"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
+      url: "https://github.com/jasoncookecon"
 
 defaults:
   # _posts
