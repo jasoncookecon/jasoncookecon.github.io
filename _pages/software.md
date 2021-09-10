@@ -2,7 +2,7 @@
 title: Software
 permalink: /software/
 header:
-  image: /assets/images/tree-bw-crop2.jpg
+  image: /assets/images/mtn4_crop.jpg
 ---
 
 ## PDF to Audiobook 

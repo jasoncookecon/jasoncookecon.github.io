@@ -2,7 +2,7 @@
 title: Teaching
 permalink: /teaching/
 header:
-  image: /assets/images/haceta-crop2.jpg
+  image: /assets/images/mtn3_crop.jpg
 ---
 
 All courses are/were taught at the University of Utah's Department of Finance.
