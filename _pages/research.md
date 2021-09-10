@@ -8,23 +8,13 @@ header:
 ## Working papers
 
 Jason Cook. [Race-Blind Admissions, School Segregation, and Student Outcomes: Evidence from Race-Blind Magnet School](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818304){:target="_blank"} **<i>Under Review</i>**. ([Online Appendix](https://drive.google.com/file/d/1w3GBpFcCJ2A_BAb9VxE-zIAF4YT3y1ip/view?usp=sharing){:target="_blank"}). Updated.
-<i>Previous versions</i>: [IZA DP](https://www.iza.org/publications/dp/11909/race-blind-admissions-school-segregation-and-student-outcomes-evidence-from-race-blind-magnet-school-lotteries){:target="_blank"}, [CESifo WP](https://www.cesifo.org/en/publikationen/2018/working-paper/race-blind-admissions-school-segregation-and-student-outcomes){:target="_blank"}
-Media: [Chalkbeat](https://www.chalkbeat.org/posts/us/2018/07/25/the-feds-are-discouraging-districts-from-using-race-to-integrate-schools-a-new-study-points-to-a-potential-downside/){:target="_blank"}
-Jason Cook, Stéphane Lavertu, Corbin Miller. Rent-Seeking through Collective Bargaining: Teachers Unions and Education Production. Revise & Resubmit - Economics of Education Review.
-Media: The74
-Slides
+- <i>Previous versions</i>: [IZA DP](https://www.iza.org/publications/dp/11909/race-blind-admissions-school-segregation-and-student-outcomes-evidence-from-race-blind-magnet-school-lotteries){:target="_blank"}, [CESifo WP](https://www.cesifo.org/en/publikationen/2018/working-paper/race-blind-admissions-school-segregation-and-student-outcomes){:target="_blank"}
+- Media: [Chalkbeat](https://www.chalkbeat.org/posts/us/2018/07/25/the-feds-are-discouraging-districts-from-using-race-to-integrate-schools-a-new-study-points-to-a-potential-downside/){:target="_blank"}
 
-"Hydro power. Market might."
+Jason Cook, Stéphane Lavertu, Corbin Miller. [Rent-Seeking through Collective Bargaining: Teachers Unions and Education Production](https://urldefense.com/v3/__https:/www.edworkingpapers.com/ai20-316__;!!KGKeukY!n-2ngSghBP2VYXkh23zwoppBPXL9AM0DmHVW6TGe-RkGQXi8-Z6Hfzy5r6sGMmiq$){:target="_blank"}. **<i>Revise & Resubmit - Economics of Education Review</i>**.
+- Media: [The74](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.the74million.org%2Fteachers-unions-lift-salaries-and-school-spending-research-shows-but-evidence-on-student-achievement-is-mixed%2F&data=04%7C01%7CJBC50%40pitt.edu%7C708d05e59df84c6e4dc808d8f5d20bbb%7C9ef9f489e0a04eeb87cc3a526112fd0d%7C1%7C0%7C637529629780979704%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=AmBmuUVbtloULCwOGp3CcdX%2BCxv0A3M6wOhXYeN7188%3D&reserved=0){:target="_blank"}
+- [Slides](https://drive.google.com/file/d/1xqCYBB4jPps5uwHa74mjz20sF9rdpdPA/view?usp=sharing){:target="_blank"}
 
-*A central tenet of economic theory is that market power induces deadweight loss. This claim rests on an assumption that is difficult to verify empirically. Namely, that dominant firms produce less than the social optimum. I provide evidence of such restrictive behaviour using a rich dataset of Norwegian hydropower firms. The research design exploits exogenous variation in market power, arising from transmission bottlenecks and the formation of localized electricity markets. The unique production traits of hydropower production further helps to avoid empirical complications associated with marginal cost estimation and endogenous variation in the supply mix. This allows me to identify the causal impact of market power on firm behaviour in a reduced-form setting that requires minimal assumptions. I show that gaining pivotal status can cause firms to withhold production by as much as a two to five percent. My results suggest that even nominally competitive markets are susceptible to strategic manipulation and welfare losses.* ([Paper]({{ site.url }}/papers/hydro.pdf){:target="_blank"}.)
-
-<!-- Example of show/hide toggle for abstract:
-<details>
-  <summary>Abstract</summary>
-   <i>Hydropower is the world's foremost source of non-fossil fuel energy. It is also characterised by a unique set of production features that have the potential to greatly simplify economic questions related to firm behaviour and output. I exploit these characteristics, together with plant-level data and exogenous variation in market power, to identify evidence of noncompetitive behaviour in the Nordic electricity sector. Consistent with economic theory, I show that increased market power causes firms to withhold production during inelastic demand periods, thereby yielding higher profits and driving up consumer prices. The larger takeaway is that even our most advanced markets are susceptible to price distortions and welfare losses under fairly common conditions.</i>
-</details>
-<br>
--->
 
 
 ## Selected works in progress

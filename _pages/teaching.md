@@ -5,16 +5,15 @@ header:
   image: /assets/images/haceta-crop2.jpg
 ---
 
-Unless otherwise noted, all courses are currently being taught at the University of Oregon's Department of Economics.
+All courses are/were taught at the University of Utah's Department of Finance.
 
 ### Graduate
 
-*Data Science for Economists*, EC 607. ([Syllabus](https://github.com/uo-ec607/syllabus/blob/master/syllabus.pdf). [Lectures](https://github.com/uo-ec607/lectures).)
+*Econometrics I*, FINAN 7821.
 
-*Big Data in Economics*, EC 510. ([Syllabus](https://github.com/uo-ec510-2020-spring/syllabus/blob/master/syllabus.pdf). [Lectures](https://github.com/uo-ec510-2020-spring/lectures).)
 
 ### Undergraduate
 
-*Environmental Economics*, EC 434. ([Syllabus](https://drive.google.com/file/d/1Ut5_qRwkKr_PsLNyUYG9ttKZdbiBhqAs/view?usp=sharing).)
+*Business Econometrics 2*, QAMO 3040. 
 
-*Intermediate Microeconomic Theory*, EC 311. 
+*Principles of Econometrics for Business and Analytics*, ECON 4651. 
