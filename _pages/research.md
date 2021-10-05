@@ -11,10 +11,6 @@ header:
 	- <i>Previous versions</i>: [IZA DP](https://www.iza.org/publications/dp/11909/race-blind-admissions-school-segregation-and-student-outcomes-evidence-from-race-blind-magnet-school-lotteries){:target="_blank"}, [CESifo WP](https://www.cesifo.org/en/publikationen/2018/working-paper/race-blind-admissions-school-segregation-and-student-outcomes){:target="_blank"}
 	- Media: [Chalkbeat](https://www.chalkbeat.org/posts/us/2018/07/25/the-feds-are-discouraging-districts-from-using-race-to-integrate-schools-a-new-study-points-to-a-potential-downside/){:target="_blank"}
 
-- Jason Cook, Stéphane Lavertu, Corbin Miller. [Rent-Seeking through Collective Bargaining: Teachers Unions and Education Production](https://urldefense.com/v3/__https:/www.edworkingpapers.com/ai20-316__;!!KGKeukY!n-2ngSghBP2VYXkh23zwoppBPXL9AM0DmHVW6TGe-RkGQXi8-Z6Hfzy5r6sGMmiq$){:target="_blank"}. **<i>Revise & Resubmit - Economics of Education Review</i>**.
-	- Media: [The74](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.the74million.org%2Fteachers-unions-lift-salaries-and-school-spending-research-shows-but-evidence-on-student-achievement-is-mixed%2F&data=04%7C01%7CJBC50%40pitt.edu%7C708d05e59df84c6e4dc808d8f5d20bbb%7C9ef9f489e0a04eeb87cc3a526112fd0d%7C1%7C0%7C637529629780979704%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=AmBmuUVbtloULCwOGp3CcdX%2BCxv0A3M6wOhXYeN7188%3D&reserved=0){:target="_blank"}
-	- [Slides](https://drive.google.com/file/d/1xqCYBB4jPps5uwHa74mjz20sF9rdpdPA/view?usp=sharing){:target="_blank"}
-
 
 
 ## Selected works in progress
@@ -26,6 +22,10 @@ header:
 
 
 ## Publications
+
+- Jason Cook, Stéphane Lavertu, Corbin Miller (accepted). [Rent-Seeking through Collective Bargaining: Teachers Unions and Education Production](https://urldefense.com/v3/__https:/www.edworkingpapers.com/ai20-316__;!!KGKeukY!n-2ngSghBP2VYXkh23zwoppBPXL9AM0DmHVW6TGe-RkGQXi8-Z6Hfzy5r6sGMmiq$){:target="_blank"}. **<i>Economics of Education Review</i>**.
+	- Media: [The74](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.the74million.org%2Fteachers-unions-lift-salaries-and-school-spending-research-shows-but-evidence-on-student-achievement-is-mixed%2F&data=04%7C01%7CJBC50%40pitt.edu%7C708d05e59df84c6e4dc808d8f5d20bbb%7C9ef9f489e0a04eeb87cc3a526112fd0d%7C1%7C0%7C637529629780979704%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=AmBmuUVbtloULCwOGp3CcdX%2BCxv0A3M6wOhXYeN7188%3D&reserved=0){:target="_blank"}
+	- [Slides](https://drive.google.com/file/d/1xqCYBB4jPps5uwHa74mjz20sF9rdpdPA/view?usp=sharing){:target="_blank"}
 
 - Marianne Bitler, Jason Cook, Jonathan Rothbaum (2021). [Working for Your Bread: The Labor Supply Effects of SNAP](https://www.aeaweb.org/articles?id=10.1257/pandp.20211094){:target="_blank"}. **<i>American Economic Review, Papers & Proceedings</i>**. ([ungated version](https://github.com/jasoncookecon/econ4651/blob/master/AEAPP_2021_BCR/Working_for_your_Bread.pdf){:target="_blank"})
 	- [Slides](https://rawcdn.githack.com/jasoncookecon/econ4651/666652dd25306c2c4cdeb9e7a5f7ee3759699900/AEAPP_2021_BCR/AEAPP_Bitler_Cook_Rothbaum.html){:target="_blank"}
