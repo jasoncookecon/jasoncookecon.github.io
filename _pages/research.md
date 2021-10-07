@@ -23,7 +23,7 @@ header:
 
 ## Publications
 
-- Jason Cook, Stéphane Lavertu, Corbin Miller (accepted). [Rent-Seeking through Collective Bargaining: Teachers Unions and Education Production](https://urldefense.com/v3/__https:/www.edworkingpapers.com/ai20-316__;!!KGKeukY!n-2ngSghBP2VYXkh23zwoppBPXL9AM0DmHVW6TGe-RkGQXi8-Z6Hfzy5r6sGMmiq$){:target="_blank"}. **<i>Economics of Education Review</i>**.
+- Jason Cook, Stéphane Lavertu, Corbin Miller (forthcoming). [Rent-Seeking through Collective Bargaining: Teachers Unions and Education Production](https://urldefense.com/v3/__https:/www.edworkingpapers.com/ai20-316__;!!KGKeukY!n-2ngSghBP2VYXkh23zwoppBPXL9AM0DmHVW6TGe-RkGQXi8-Z6Hfzy5r6sGMmiq$){:target="_blank"}. **<i>Economics of Education Review</i>**.
 	- Media: [The74](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.the74million.org%2Fteachers-unions-lift-salaries-and-school-spending-research-shows-but-evidence-on-student-achievement-is-mixed%2F&data=04%7C01%7CJBC50%40pitt.edu%7C708d05e59df84c6e4dc808d8f5d20bbb%7C9ef9f489e0a04eeb87cc3a526112fd0d%7C1%7C0%7C637529629780979704%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=AmBmuUVbtloULCwOGp3CcdX%2BCxv0A3M6wOhXYeN7188%3D&reserved=0){:target="_blank"}
 	- [Slides](https://drive.google.com/file/d/1xqCYBB4jPps5uwHa74mjz20sF9rdpdPA/view?usp=sharing){:target="_blank"}
 
