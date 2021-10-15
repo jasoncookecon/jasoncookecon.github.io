@@ -15,7 +15,7 @@ header:
 
 ## Selected works in progress
 
-- *How Place and Poverty Intersect: Geographic Barriers and Low SNAP Take-up* -- with Marianne Bitler and Sonya R. Porter.
+- *How Place and Need Intersect: How Lack of Retail and Enrollment Offices Deters Nutrition Assistance Take-Up* -- with Marianne Bitler and Sonya R. Porter.
 	- Funding: [Institute for Poverty Research](https://www.irp.wisc.edu/)
 
 - *Nutrition Assistance Eligibility and Labor Supply* -- with Marianne Bitler and Jonathan Rothbaum.
